@@ -1,0 +1,8 @@
+CREATE TABLE pengguna (
+id INT NOT NULL AUTO_INCREMENT,
+username VARCHAR(255) NOT NULL,
+password VARCHAR(255) NOT NULL,
+peran ENUM('ADMIN','USER'),
+login_terakhir TIMESTAMP NULL,
+PRIMARY KEY (id)
+) ENGINE = InnoDB;
