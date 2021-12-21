@@ -1,0 +1,1 @@
+DELETE FROM lokasi WHERE lokasi.id = 4
