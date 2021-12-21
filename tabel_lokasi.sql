@@ -1,0 +1,5 @@
+CREATE TABLE lokasi (
+ id INT NOT NULL AUTO_INCREMENT ,
+ nama_lokasi VARCHAR(255) NOT NULL ,
+ PRIMARY KEY (`id`)
+) ENGINE = InnoDB; 
