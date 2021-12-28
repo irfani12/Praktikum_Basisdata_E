@@ -1,0 +1,1 @@
+SELECT * FROM lokasi WHERE id = 2;
