@@ -1,0 +1,1 @@
+ELECT * FROM jabatan WHERE gapok_jabatan > 2200000;
