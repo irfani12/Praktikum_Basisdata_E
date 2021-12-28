@@ -1,0 +1,1 @@
+SELECT * FROM jabatan WHERE nama_jabatan like '%programmer%'
