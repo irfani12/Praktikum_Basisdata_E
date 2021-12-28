@@ -1,0 +1,1 @@
+SELECT * FROM jabatan WHERE uang_makan_perhari < 35000;
